@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936112864284",
+    "project_id": "project17-10",
+    "storage_bucket": "project17-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936112864284:android:38b94a4b2d6a52fc2173d9",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5T_eqo6_zf2i2yxWaSVRcJATmIXJg-nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936112864284:android:b712c07fecfcb3a42173d9",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5T_eqo6_zf2i2yxWaSVRcJATmIXJg-nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
